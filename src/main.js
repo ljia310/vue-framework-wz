@@ -7,10 +7,8 @@ import './mock/index.js';  // 该项目所有请求使用mockjs模拟
 import 'nprogress/nprogress.css';// Progress 进度条 样式
 import iView from 'iview';
 import 'iview/dist/styles/iview.css'; 
-import TreeView from "vue-json-tree-view";
 
 Vue.use(iView);
-Vue.use(TreeView);
 
 
 

@@ -1,7 +1,7 @@
 <template>
   <footer class="app-footer">
-    <a >WZ</a> &copy; 2017 creativeLabs.
-    <span class="float-right">Powered by <a href="http://coreui.io">WZ</a></span>
+    <a >后台管理平台</a> &copy; 2017 creativeLabs.
+    <span class="float-right">Powered by <a href="http://xxxxxx.cn">xxxx</a></span>
   </footer>
 </template>
 <script>
